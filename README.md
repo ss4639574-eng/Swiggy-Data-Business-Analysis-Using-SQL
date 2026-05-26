@@ -233,19 +233,19 @@ Top revenue-generating states:
 # 📸 Project Screenshots
 
 ## Screenshot 1
-![Screenshot 58](Screenshots/Screenshot(58).png)
+![Screenshot 58](Screenshots/Screenshot58.png)
 
 ## Screenshot 2
-![Screenshot 59](Screenshots/Screenshot(59).png)
+![Screenshot 59](Screenshots/Screenshot59.png)
 
 ## Screenshot 3
-![Screenshot 60](Screenshots/Screenshot(60).png)
+![Screenshot 60](Screenshots/Screenshot60.png)
 
 ## Screenshot 4
-![Screenshot 61](Screenshots/Screenshot(61).png)
+![Screenshot 61](Screenshots/Screenshot61.png)
 
 ## Screenshot 5
-![Screenshot 62](Screenshots/Screenshot(62).png)
+![Screenshot 62](Screenshots/Screenshot62.png)
 
 
 
