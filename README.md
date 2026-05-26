@@ -229,9 +229,8 @@ Top revenue-generating states:
 ---
 
 
-```
 
----
+
 
 # 📸 Project Screenshots
 
@@ -241,7 +240,7 @@ Top revenue-generating states:
 
 ![Screenshot(58)](screenshot/Screenshot(58).png)
 
----
+
 
 # 🚀 Future Improvements
 
