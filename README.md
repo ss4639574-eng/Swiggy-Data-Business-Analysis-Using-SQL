@@ -238,7 +238,7 @@ Top revenue-generating states:
 
 *Add Screenshot here*
 
-![Screenshot(58)](screenshot/Screenshot(58).png)
+![Screenshot(58)](Screenshot/Screenshot(58).png)
 
 
 
